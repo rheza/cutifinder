@@ -1,0 +1,241 @@
+body {
+
+	font: 13px/1.5 "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+
+	color: gray;
+
+	background: #e0e0e0 fixed;
+
+	margin: 50px 0 0;
+
+	padding: 0;
+
+	cursor: default;
+
+}
+
+
+.banner_bg {
+	width: 700px;
+	height: 50px;
+	background-color:#6d6d6d;
+	font: small-caps bold 36px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	border-left: 5px solid #93bf0e;
+	color: white;
+	text-align: left;
+}
+
+.menuname_bg {
+	font-weight: bold;
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	line-height: 36px;
+	color: white;
+	background-color: #414141;
+	
+	
+	border-left: 10px solid green;
+	font-variant: normal;
+	text-align: left;
+}
+
+
+.menuname_bg {
+	font-weight: bold;
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	line-height: 36px;
+	color: white;
+	background-color: #414141;
+	width: 400px;
+	height: 40px;
+	
+	border-left: 5px solid green;
+}
+
+.menuname_bg2 {
+	font-weight: bold;
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	line-height: 36px;
+	color: white;
+	background-color: #414141;
+	width: 400px;
+	height: 30px;
+	
+	
+	border-left: 5px solid yellow;
+}
+
+.menuname_bg3 {
+	
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	
+	color: white;
+	background-color: #414141;
+	width: 400px;
+	height: 30px;
+	
+	border-left: 5px solid orange;
+	text-align: left;
+}
+
+.menuname_bg4 {
+	
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	
+	color: white;
+	background-color: #414141;
+	width: 400px;
+	height: 30px;
+	
+	border-left: 5px solid orange;
+	text-align: left;
+}
+
+
+
+.question_bg1 {
+	
+	color: white;
+	background-color:#9f9f9f;
+	width: 700px;
+	height: 75px;
+	
+	border-left: 5px solid #bed0a1;
+	text-align: left;
+	font: 14px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+.question_bg2 {
+	
+	color: white;
+	background-color:#6d6d6d;
+	width: 700px;
+	height: 125px;
+
+	border-left: 5px solid #93bf0e;
+	text-align: left;
+	font: 14px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+.question_bg3 {
+	
+	color: white;
+	background-color:#9f9f9f;
+	width: 700px;
+	height: 125px;
+	
+	border-left: 5px solid #bed0a1;
+	text-align: left;
+	font: 14px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+
+.question_bg4 {
+	
+	color: white;
+	background-color:#6d6d6d;
+	width: 700px;
+	height: 160px;
+	
+	border-left: 5px solid #93bf0e;
+	text-align: left;
+	font: 14px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+.result_bg {
+	
+	color: white;
+	background-color:#9f9f9f;
+	width: 700px;
+	height: 50px;
+	
+	border-left: 5px solid #679fd2;
+	text-align: left;
+	font: 14px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+.submit_bg {
+	width: 700px;
+	height: 62px;
+	background-color:#9f9f9f;
+	border-left: 5px solid #c56f29;
+	font: 14px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+	
+
+.viewthis_bg {
+	
+	color: white;
+	background-color:#6d6d6d;
+	width: 700px;
+	height: 70px;
+	border-left: 5px solid #d7d724;
+	text-align: left;
+	font: 14px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+.result_desc {
+	
+	color: white;
+	background-color:#6d6d6d;
+	width: 700px;
+	height: 125px;
+	
+	border-left: 5px solid #408dd2;
+	text-align: left;
+	font: 14px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+
+
+
+.link1 {
+letter-spacing: 2px;
+background-color: transparent;
+font: bold 10pt "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+border-style: none;
+color: white;
+text-decoration: none;
+}
+
+.link1:hover {
+color: black;
+}
+
+
+.link2 {
+letter-spacing: 3px;
+background-color: transparent;
+font: 100 18pt "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+border-style: none;
+color: white;
+text-decoration: none;
+}
+
+.link2:hover {
+color: black;
+}
+
+
+/* --------------------BANNER ROTATOR--------------------- */
+#SlideItMoo_banners_outer { 
+	display:block; 
+	position:relative; 
+	width:557px; 
+	height:150px; 
+	margin:0px auto 0px; 
+	border:0px #CCCCCC solid; 
+}
+#SlideItMoo_banners_inner { 
+	position:relative ; 
+	overflow:hidden ; 
+	width:557px ; 
+	height:150px ; 
+	margin:0px auto 0px;  
+}
+#SlideItMoo_banners_items { 
+	white-space:nowrap; 
+	display:block; 
+	position:relative; 
+}
+#SlideItMoo_banners_items a img { 
+	border:none; 
+}

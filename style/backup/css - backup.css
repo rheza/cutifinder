@@ -1,0 +1,126 @@
+body {
+	font: 13px/1.5 "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: gray;
+	background: white fixed;
+	margin: 50px 0 0;
+	padding: 0;
+	cursor: default;
+}
+
+	
+
+
+.menuname_bg {
+	font-weight: bold;
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	line-height: 36px;
+	color: white;
+	background-color: #414141;
+	width: 400px;
+	height: 40px;
+	
+	border-left: 5px solid green;
+}
+.menuname_bg2 {
+	font-weight: bold;
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	line-height: 36px;
+	color: white;
+	background-color: #414141;
+	width: 400px;
+	height: 30px;
+	
+	
+	border-left: 5px solid yellow;
+}
+
+.menuname_bg3 {
+	
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	
+	color: white;
+	background-color: #414141;
+	width: 400px;
+	height: 30px;
+	
+	border-left: 5px solid orange;
+	text-align: left;
+}
+
+.menuname_bg4 {
+	
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	
+	color: white;
+	background-color: #414141;
+	width: 400px;
+	height: 30px;
+	
+	border-left: 5px solid orange;
+	text-align: left;
+}
+
+
+
+.question_bg1 {
+	
+	color: white;
+	background-color:#414141;
+	width: 700px;
+	height: 75px;
+	
+	border-left: 5px solid blue;
+	text-align: left;
+	font: 14px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+.question_bg2 {
+	
+	color: white;
+	background-color:#919191;
+	width: 700px;
+	height: 125px;
+	
+	border-left: 5px solid yellow;
+	text-align: left;
+	font: 14px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+.question_bg3 {
+	
+	color: white;
+	background-color:#414141;
+	width: 700px;
+	height: 150px;
+	
+	border-left: 5px solid red;
+	text-align: left;
+	font: 14px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+
+.question_bg4 {
+	
+	color: white;
+	background-color:#919191;
+	width: 700px;
+	height: 125px;
+	
+	border-left: 5px solid green;
+	text-align: left;
+	font: 14px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+
+.submit_bg {
+	
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	
+	color: white;
+	background-color: #414141;
+	width: 700px;
+	height: 60px;
+	
+	border-left: 5px solid orange;
+	
+}
